@@ -1,0 +1,10 @@
+<panel>
+	<pos>157.653, 88.7755, 130.102</pos>
+	<scale>469.388, 469.388, 469.388</scale>
+	<rotate>154.286, 42.2449, 172.653</rotate>
+	<bGlobalRotate>1</bGlobalRotate>
+	<thresh>0.835</thresh>
+	<color>195, 68, 153, 75</color>
+	<bFIll>1</bFIll>
+	<bReverseTog>1</bReverseTog>
+</panel>
